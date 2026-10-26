@@ -7,6 +7,10 @@ Upload .csv file, no header just acronym | definition (2 columns, inf rows)
 ### Labels Mode
 Upload .csv file no header just labels, then add image manually. Image can't be moved or renamed, the app refers to the image using the path.
 
+
+### Combined Mode
+Upload .csv file [question_text, image_path, answer]
+
 ### Other Features
 1. Delete test
 2. Answers are graded as correct if it have the same answer (disregard capitalization differences)
